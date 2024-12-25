@@ -1,0 +1,10 @@
+Lotario Ticket
+
+Lottario Line 1: 16, 24, 45, 43, 41, 44
+Bonus Line 1: 03, 42, 10, 39, 37, 08
+Lottario Line 2: 40, 05, 02, 26, 19, 23
+Bonus Line 2: 30, 29, 40, 20, 23, 43
+Lottario Line 3: 12, 41, 31, 09, 27, 38
+Bonus Line 3: 17, 23, 04, 01, 12, 27
+
+Encore Line: 7 5 2 8 3 1 9 
